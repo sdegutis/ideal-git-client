@@ -17,7 +17,7 @@ I just want a simple client that can more easily and quickly do the things I do 
 
 Notes on apps I've tried:
 
-1. **GitX**: In 2012 this was amazing. Latest versions from all forks are each kinda broken. Otherwise it's fine except that I'd make a few UI/UX changes.
+1. **GitX**: Latest versions from all forks are each kinda broken. Otherwise it's fine except that I'd make a few UI/UX changes.
 
 2. **SourceTree**: Slow, difficult UI, not easy to view whole commits. Honestly using git directly is easier. Sorry Atlassian.
 
