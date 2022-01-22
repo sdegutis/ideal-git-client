@@ -14,8 +14,8 @@ I just want a simple client that can more easily and quickly do the things I do 
 5. Commit with possibly multi-line message.
 6. View recent commits of all branches in a tree.
 7. View all changes within a commit.
-8. Reword some commit (including multi-line.
-9. Add staged changes to last commit, with or without new message.
+8. Reword some commit (with multi-line support).
+9. Add staged changes to last commit (with or without new multi-line message).
 
 Notes on apps I've tried:
 
