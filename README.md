@@ -19,7 +19,9 @@ I just want a simple client that can more easily and quickly do the things I do 
 8. Reword some commit (with multi-line support).
 9. Add staged changes to last commit (with or without new multi-line message).
 
-My idea app would *just* do these things, and leave the rest to `git` CLI or another app.
+Importantly, I want automatic *visual confirmation* that each of these things worked right after I do them.
+
+My idea app would *just* do these things, and leave the rest to `git` or another app.
 
 ### Notes on apps I've tried
 
