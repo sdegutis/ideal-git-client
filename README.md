@@ -3,9 +3,11 @@ Notes (and maybe future repo?) for my ideal git client
 
 ---
 
+### Goal
+
 Currently I mostly use command-line `git` directly.
 
-I just want a simple client that can more easily and quickly do the things I do very often:
+I just want a simple client that can more easily and quickly do the things I do every hour:
 
 1. View all staged changes.
 2. View all unstaged changes.
@@ -17,7 +19,9 @@ I just want a simple client that can more easily and quickly do the things I do 
 8. Reword some commit (with multi-line support).
 9. Add staged changes to last commit (with or without new multi-line message).
 
-Notes on apps I've tried:
+My idea app would *just* do these things, and leave the rest to `git` CLI or another app.
+
+### Notes on apps I've tried
 
 1. **GitX**: Latest versions from all forks are each kinda broken. Otherwise it's fine except that I'd make a few UI/UX changes.
 
